@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import asyncio
 from buttons import *
 
-API_TOKEN = '6133318403:AAGRz8nIkrGBU0NQHyPff1GMc40dTojJzOg'
+API_TOKEN = ''
 
 
 logging.basicConfig(level=logging.INFO)
